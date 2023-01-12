@@ -1,0 +1,1892 @@
+# Translation of Plugins - Auto Listings &#8211; Car Listings &amp; Car Dealership Plugin for WordPress - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Auto Listings &#8211; Car Listings &amp; Car Dealership Plugin for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-12-27 18:41:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Auto Listings &#8211; Car Listings &amp; Car Dealership Plugin for WordPress - Stable (latest release)\n"
+
+#: src/Admin/settings/10-contact-settings.php:44
+msgid "Enable Ajax submission"
+msgstr "Activar el envío con Ajax"
+
+#: src/Admin/settings/04-general-captcha.php:33
+msgid "Secret key"
+msgstr "Clave secreta"
+
+#: src/Admin/settings/04-general-captcha.php:28
+msgid "Site key"
+msgstr "Clave del sitio"
+
+#: src/Admin/settings/04-general-captcha.php:16
+msgid ""
+"<div class=\"fields-label\">\n"
+"\t\t\t\t<h3>Authentication</h3>\n"
+"\t\t\t\t<i>\n"
+"\t\t\t\t\tRegister your website with Google to get required API keys and enter them below.\n"
+"\t\t\t\t\t<a href=\"https://www.google.com/recaptcha/admin#list\" target=\"_blank\">Get the API Keys</a>\n"
+"\t\t\t\t</i>\n"
+"\t\t\t\t</div>"
+msgstr ""
+"<div class=\"fields-label\">\n"
+"\t\t\t\t<h3>Identificación</h3>\n"
+"\t\t\t\t<i>\n"
+"\t\t\t\t\tRegistra tu web con Google para obtener las claves necesarias de la API e introducirlas a continuación.\n"
+"\t\t\t\t\t<a href=\"https://www.google.com/recaptcha/admin#list\" target=\"_blank\">Obtener las claves de la API</a>\n"
+"\t\t\t\t</i>\n"
+"\t\t\t\t</div>"
+
+#: src/Admin/settings/04-general-captcha.php:10
+msgid "Google reCaptcha Settings"
+msgstr "Ajustes de Google reCAPTCHA"
+
+#: src/Admin/settings/15-sidebar-themes.php:20
+msgid "Get all themes"
+msgstr "Obtén todos los temas"
+
+#. translators: theme url
+#: src/Admin/settings/15-sidebar-themes.php:11
+msgid "%s - a must-have WordPress theme for car dealership and car listings websites."
+msgstr "%s - un tema imprescindible para WordPress para webs de concesionarios y anuncios de coches."
+
+#. translators: theme url
+#: src/Admin/settings/15-sidebar-themes.php:5
+msgid "%s - powerful, elegant and lightweight premium theme for car dealership and car listings websites."
+msgstr "%s - tema premium potente, elegante y ligero para webs de concesionarios y anuncios de coches."
+
+#: src/functions-sidebars.php:36
+msgid "Use this widget to customize the sidebar on the single listing page."
+msgstr "Usa este widget para personalizar la barra lateral en la página individual del anuncio."
+
+#: src/Admin/settings/15-sidebar-themes.php:25
+msgid "Recommended Themes"
+msgstr "Temas recomendados"
+
+#. translators: theme url
+#: src/Admin/settings/15-sidebar-themes.php:17
+msgid "%s - free theme that helps you build a listings website with ease."
+msgstr "%s - tema gratuito que te ayuda a crear una web de anuncios con facilidad."
+
+#: src/Widgets/Location.php:9
+msgid "Display listing location"
+msgstr "Mostrar la ubicación del anuncio"
+
+#: src/Widgets/Location.php:7
+msgid "[Auto Listings] Location"
+msgstr "[Auto Listings] Ubicación"
+
+#: src/Widgets/ContactForm.php:9
+msgid "Display contact form"
+msgstr "Mostrar un formulario de contacto"
+
+#: src/Widgets/ContactForm.php:7
+msgid "[Auto Listings] Contact Form"
+msgstr "[Auto Listings] Formulario de contacto"
+
+#: src/Widgets/Features.php:9
+msgid "Display listing features"
+msgstr "Mostrar las características del anuncio"
+
+#: src/Widgets/Features.php:7
+msgid "[Auto Listings] Features"
+msgstr "[Auto Listings] Características"
+
+#: src/functions-sidebars.php:34
+msgid "Auto Listings Single"
+msgstr "Anuncio individual"
+
+#: src/functions-sidebars.php:22
+msgid "Auto Listings Archive"
+msgstr "Archivo de Auto Listings"
+
+#: src/SearchForm/Ajax.php:12
+msgid "No make selected"
+msgstr "Ninguna marca seleccionada"
+
+#: src/Admin/settings/04-listing-setup.php:52
+msgid "Single Listing Slug"
+msgstr "Slug del anuncio individual"
+
+#: src/SearchForm/views/toolbar.php:4
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: src/SearchForm/views/toolbar.php:3
+msgid "CSS"
+msgstr "CSS"
+
+#: src/SearchForm/views/toolbar.php:2
+msgid "Template"
+msgstr "Plantilla"
+
+#: src/SearchForm/views/inserter.php:3
+msgid "Field list"
+msgstr "Lista de campos"
+
+#: src/SearchForm/Editor.php:121
+msgid "Leave empty to use the default values"
+msgstr "Dejar vacío para usar los valores por defecto"
+
+#: src/SearchForm/Editor.php:120
+msgid "Toggle Button Label"
+msgstr "Etiqueta del botón conmutador"
+
+#: src/SearchForm/Editor.php:119
+msgid "Single Choice"
+msgstr "Elección única"
+
+#: src/SearchForm/Editor.php:118
+msgid "Dropdown"
+msgstr "Desplegable"
+
+#: src/SearchForm/Editor.php:116
+msgid "Toggle"
+msgstr "Conmutador"
+
+#: src/SearchForm/Editor.php:114
+msgid "attributes"
+msgstr "atributos"
+
+#: src/SearchForm/Editor.php:113
+msgid "Insert Field"
+msgstr "Insertar campo"
+
+#: src/SearchForm/Editor.php:112
+msgid "Multiple"
+msgstr "Múltiple"
+
+#: src/SearchForm/Editor.php:110
+msgid "Prefix"
+msgstr "Prefijo"
+
+#: src/SearchForm/Editor.php:109
+msgid "Placeholder"
+msgstr "Marcador de posición"
+
+#: src/SearchForm/Editor.php:107
+msgid "Label"
+msgstr "Etiqueta"
+
+#: src/SearchForm/Editor.php:104
+msgid "Selected Values"
+msgstr "Valores seleccionados"
+
+#: src/SearchForm/Editor.php:103
+msgid "Total Listings"
+msgstr "Anuncios totales"
+
+#: src/SearchForm/Editor.php:102
+msgid "Toggle Wrapper"
+msgstr "Envoltorio del conmutador"
+
+#: src/SearchForm/Editor.php:99
+msgid "Button"
+msgstr "Botón"
+
+#: src/SearchForm/Editor.php:91
+msgid "Odometer"
+msgstr "Cuentakilómetros"
+
+#: src/SearchForm/Editor.php:84
+msgid "Keyword"
+msgstr "Palabra clave"
+
+#: src/SearchForm/Editor.php:12
+msgid "Template Editor"
+msgstr "Editor de plantillas"
+
+#: src/SearchForm/Shortcode/Extras.php:36
+msgid "Town, city or postcode"
+msgstr "Localidad, ciudad o código postal"
+
+#: src/SearchForm/Shortcode/Extras.php:35
+msgid "Location"
+msgstr "Ubicación"
+
+#: src/SearchForm/Shortcode/Extras.php:23
+msgid "Advanced Search"
+msgstr "Búsqueda avanzada"
+
+#: src/SearchForm/functions.php:173 src/SearchForm/Shortcode/Field.php:182
+msgid "-"
+msgstr "-"
+
+#: src/SearchForm/Editor.php:95 src/SearchForm/Shortcode/Field.php:42
+msgid "Within"
+msgstr "En un radio de"
+
+#: src/SearchForm/Shortcode/Field.php:39
+msgid "Mileage"
+msgstr "Kilometraje"
+
+#: src/SearchForm/Editor.php:97 src/SearchForm/Shortcode/Field.php:37
+msgid "Min Price"
+msgstr "Precio mínimo"
+
+#: src/SearchForm/Editor.php:96 src/SearchForm/Shortcode/Field.php:36
+msgid "Max Price"
+msgstr "Precio máximo"
+
+#: src/SearchForm/Shortcode/Field.php:26
+msgid "All years"
+msgstr "Todos los años"
+
+#: src/SearchForm/Shortcode/Field.php:25
+msgid "All areas"
+msgstr "Todas las áreas"
+
+#: src/SearchForm/Shortcode/Field.php:24
+msgid "All transmissions"
+msgstr "Todos los tipos de transmisión"
+
+#: src/SearchForm/Shortcode/Field.php:22
+msgid "All mileages"
+msgstr "Todos los kilometrajes"
+
+#: src/SearchForm/Shortcode/Field.php:21
+msgid "All models"
+msgstr "Todos los modelos"
+
+#: src/SearchForm/Shortcode/Field.php:19 src/SearchForm/Shortcode/Field.php:20
+#: src/SearchForm/Shortcode/Field.php:23
+msgid "All prices"
+msgstr "Todos los precios"
+
+#: src/SearchForm/Shortcode/Field.php:18
+msgid "All makes"
+msgstr "Todas las marcas"
+
+#: src/SearchForm/Shortcode/Field.php:17
+msgid "All fuel types"
+msgstr "Todos los tipos de combustible"
+
+#: src/SearchForm/Shortcode/Field.php:16
+msgid "All engines"
+msgstr "Todos los motores"
+
+#: src/SearchForm/Shortcode/Field.php:15
+msgid "All drive types"
+msgstr "Todos los tipos de tracción"
+
+#: src/SearchForm/Shortcode/Field.php:14
+msgid "All conditions"
+msgstr "Todas las condiciones"
+
+#: src/SearchForm/Shortcode/Field.php:13
+msgid "All body types"
+msgstr "Todos los tipos de carrocería"
+
+#: src/SearchForm/PostType.php:81
+msgid "Form draft updated."
+msgstr "Actualizado el borrador del formulario."
+
+#: src/SearchForm/PostType.php:80
+msgid "Form scheduled."
+msgstr "Formulario programado."
+
+#: src/SearchForm/PostType.php:79
+msgid "Form submitted."
+msgstr "Formulario enviado."
+
+#: src/SearchForm/PostType.php:78
+msgid "Form saved."
+msgstr "Formulario guardado."
+
+#: src/SearchForm/PostType.php:77
+msgid "Form published."
+msgstr "Formulario publicado."
+
+#: src/SearchForm/PostType.php:76
+msgid "Form restored to revision from %s"
+msgstr "Formulario restaurado a la revisión %s"
+
+#: src/SearchForm/PostType.php:74
+msgid "Form deleted."
+msgstr "Formulario borrado."
+
+#: src/SearchForm/PostType.php:72 src/SearchForm/PostType.php:73
+#: src/SearchForm/PostType.php:75
+msgid "Form updated."
+msgstr "Formulario actualizado."
+
+#: src/SearchForm/PostType.php:27
+msgid "No search forms found in Trash."
+msgstr "No se han encontrado formularios de búsqueda en la papelera."
+
+#: src/SearchForm/PostType.php:26
+msgid "No search forms found."
+msgstr "No se han encontrado formularios de búsqueda."
+
+#: src/SearchForm/PostType.php:25
+msgid "Parent search form:"
+msgstr "Formulario de búsqueda principal:"
+
+#: src/SearchForm/PostType.php:24
+msgid "Search search form"
+msgstr "Buscar formulario de búsqueda"
+
+#: src/SearchForm/PostType.php:23
+msgid "Search Forms"
+msgstr "Formularios de búsqueda"
+
+#: src/SearchForm/PostType.php:22
+msgid "View search form"
+msgstr "Ver formulario de búsqueda"
+
+#: src/SearchForm/PostType.php:21
+msgid "Edit search form"
+msgstr "Editar formulario de búsqueda"
+
+#: src/SearchForm/PostType.php:20
+msgid "New search form"
+msgstr "Nuevo formulario de búsqueda"
+
+#: src/SearchForm/PostType.php:19
+msgid "Add new search form"
+msgstr "Añadir nuevo formulario de búsqueda"
+
+#: src/SearchForm/PostType.php:18
+msgctxt "auto-listings"
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: src/SearchForm/PostType.php:17
+msgctxt "add new on admin bar"
+msgid "Search Forms"
+msgstr "Formularios de búsqueda"
+
+#: src/SearchForm/PostType.php:16
+msgctxt "admin menu"
+msgid "Search Forms"
+msgstr "Formularios de búsqueda"
+
+#: src/SearchForm/PostType.php:15
+msgctxt "post type singular name"
+msgid "Search Form"
+msgstr "Formulario de búsqueda"
+
+#: src/SearchForm/PostType.php:14
+msgctxt "post type general name"
+msgid "Search Forms"
+msgstr "Formularios de búsqueda"
+
+#: src/SearchForm/AdminColumns.php:12 src/SearchForm/Editor.php:33
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: auto-listings.php:69
+msgid "Click here"
+msgstr "Haz clic aquí"
+
+#. Translators: %1$s is the plugin name, %2$s is the Meta Box plugin name.
+#: auto-listings.php:66
+msgid "%1$s requires %2$s to function correctly. %3$s to %4$s %2$s."
+msgstr "%1$s necesita %2$s para funcionar correctamente. %3$s a %4$s %2$s."
+
+#: src/Updater/Tab.php:18 src/Updater/Tab.php:24
+msgid "License"
+msgstr "Licencia"
+
+#: src/Admin/settings/17-sidebar-products.php:13
+msgid "Automated & fast SEO plugin for WordPress"
+msgstr "Plugin SEO automatizado y rápido para WordPress"
+
+#: src/Admin/settings/17-sidebar-products.php:13
+msgid "Slim SEO"
+msgstr "Slim SEO"
+
+#. Description of the plugin
+msgid "The best car listings and car dealership plugin for WordPress"
+msgstr "El mejor plugin de anuncios de venta de coches y concesionarios para WordPress"
+
+#: src/Admin/settings/03-general-format.php:67
+msgid "Enter your price range here, from lowest to highest, seperated by the comma. If this is left empty, our default price range will be used."
+msgstr "Introduce aquí tu rango de precios, del más bajo al más alto, separados por comas. Si se deja vacío, se usará nuestro rango de precios por defecto."
+
+#: src/Admin/settings/03-general-format.php:65
+msgid "Price Range"
+msgstr "Rango de precio"
+
+#: src/Listing/fields/02-details.php:64
+msgid "Available"
+msgstr "Disponible"
+
+#: src/Listing/fields/02-details.php:61
+msgid "Listing State"
+msgstr "Situación del vehículo"
+
+#: src/Listing/fields/02-details.php:56
+msgid "Hidden"
+msgstr "Oculto"
+
+#: src/Admin/settings/18-listing-state.php:35
+msgid "Hide Price"
+msgstr "Ocultar el precio"
+
+#: src/Admin/settings/18-listing-state.php:21
+msgid "+ Add Listing State"
+msgstr "+ Añadir situación del vehículo"
+
+#: src/Admin/settings/18-listing-state.php:20
+msgid "Listing State {#}"
+msgstr "Situación del vehículo {#}"
+
+#: src/Admin/settings/18-listing-state.php:16
+msgid "Once state have been added here, they are then available in the <strong>Listings State</strong> dropdown field when adding or editing a listing."
+msgstr "Una vez que las posibles situaciones del vehículo hayan sido añadidas aquí, estarán disponibles en el campo desplegable <strong>Situación del vehículo</strong> al añadir o editar un anuncio."
+
+#: src/Admin/settings/18-listing-state.php:10
+msgid "Listing States"
+msgstr "Situación del vehículo"
+
+#: src/Admin/settings/14-extensions.php:59
+msgid "Create a multi-dealer car sales website."
+msgstr "Crear webs de venta de coches multi-concesionario."
+
+#: src/Admin/settings/14-extensions.php:46
+msgid "Allow users to pay for and submit their own listings."
+msgstr "Permite a los usuarios pagar y enviar sus propios anuncios."
+
+#: src/Admin/settings/14-extensions.php:33
+msgid "Delivers precise data lookup for vehicles."
+msgstr "Proporciona una búsqueda precisa de datos de vehículos."
+
+#: src/Admin/settings/14-extensions.php:24
+#: src/Admin/settings/14-extensions.php:37
+#: src/Admin/settings/14-extensions.php:50
+#: src/Admin/settings/14-extensions.php:63
+msgid "Learn More"
+msgstr "Saber más"
+
+#: src/Admin/settings/14-extensions.php:20
+msgid "Integrates with the DVLA Search API for the UK."
+msgstr "Se integra con la API de búsqueda DVLA para el Reino Unido."
+
+#: src/Admin/settings/09-contact-email.php:33
+msgid "Content of the email that is sent to the seller (and other email addresses above). Available tags are:<br>{seller_name}<br>{listing_title}<br>{listing_id}<br>{enquiry_name}<br>{enquiry_email}<br>{enquiry_phone}<br>{enquiry_message}<br>"
+msgstr "Contenido del correo electrónico enviado al vendedor (y a las otras direcciones de correo electrónico anteriores). Las etiquetas disponibles son: <br>{seller_name}<br>{listing_title}<br>{listing_id}<br>{enquiry_name}<br>{enquiry_email}<br>{enquiry_phone}<br>{enquiry_message}<br>"
+
+#. translators: %1 is the radius value, %2 is the unit.
+#: src/SearchForm/functions.php:46
+msgid "%1$1s %2$2s of"
+msgstr "%1$1s %2$2s de"
+
+#. translators: %1 is the mileage value, %2 is the unit.
+#: src/SearchForm/functions.php:19
+msgid "%1$1s %2$2s or less"
+msgstr "%1$1s %2$2s o menos"
+
+#: src/SearchForm/Editor.php:117 src/SearchForm/Shortcode/Button.php:13
+msgid "Submit"
+msgstr "Enviar"
+
+#: src/Plugin.php:88
+msgid "Documentation"
+msgstr "Documentación"
+
+#. translators: link to setting page.
+#: src/Listing/fields/05-address.php:13
+msgid "No Google Maps API key found.<br>Please <a href=\"%s\">add one here</a>"
+msgstr "No se ha encontrado la clave de la API de Google Maps.<br>Por favor, <a href=\"%s\">añade una aquí</a>"
+
+#: src/Listing/fields/04-gallery.php:23
+msgid "Gallery"
+msgstr "Galería"
+
+#: src/Listing/PostType.php:92
+msgid "Filter body types list"
+msgstr "Filtrar la lista de tipos de carrocería"
+
+#: src/Listing/PostType.php:91
+msgctxt "body-type menu name"
+msgid "Body Types"
+msgstr "Tipos de carrocería"
+
+#: src/Listing/PostType.php:89
+msgid "No body types found in Trash"
+msgstr "No se han encontrado tipos de carrocería en la papelera"
+
+#: src/Listing/PostType.php:88
+msgid "No body types found"
+msgstr "No se encontraron tipos de carrocería"
+
+#: src/Listing/PostType.php:87
+msgid "Search Body Types"
+msgstr "Buscar por tipo de carrocería"
+
+#: src/Listing/PostType.php:86
+msgid "View Body Type"
+msgstr "Ver tipo de carrocería"
+
+#: src/Listing/PostType.php:83
+msgid "Edit Body Type"
+msgstr "Editar tipo de carrocería"
+
+#: src/Listing/PostType.php:82
+msgid "Add New Body Type"
+msgstr "Añadir nuevo tipo de carrocería"
+
+#: src/Listing/PostType.php:81 src/Listing/PostType.php:84
+msgid "New Body Type"
+msgstr "Nuevo tipo de carrocería"
+
+#: src/Listing/PostType.php:80
+msgctxt "body-type singular name"
+msgid "Body Type"
+msgstr "Tipo de carrocería"
+
+#: src/Listing/PostType.php:79
+msgctxt "body-type general name"
+msgid "Body Types"
+msgstr "Tipos de carrocería"
+
+#: src/Listing/PostType.php:46 src/Listing/PostType.php:94
+msgid "Listings list"
+msgstr "Lista de anuncios"
+
+#: src/Listing/PostType.php:45 src/Listing/PostType.php:93
+msgid "Listings list navigation"
+msgstr "Navegación por la lista de anuncios"
+
+#: src/Listing/PostType.php:44
+msgid "Filter listings list"
+msgstr "Filtrar lista de anuncios"
+
+#: src/Listing/PostType.php:41
+msgid "No listings found in Trash"
+msgstr "No se han encontrado anuncios en la papelera"
+
+#: src/Listing/PostType.php:40
+msgid "No listings found"
+msgstr "No se han encontrado anuncios"
+
+#: src/Listing/PostType.php:39
+msgid "Search Listings"
+msgstr "Buscar anuncios"
+
+#: src/Listing/PostType.php:38
+msgid "View Listing"
+msgstr "Ver anuncio"
+
+#: src/Listing/PostType.php:34
+msgid "Add New Listing"
+msgstr "Añadir nuevo anuncio"
+
+#: src/Listing/PostType.php:32
+msgctxt "Singular listing post type name"
+msgid "Listing"
+msgstr "Anuncio"
+
+#: src/Listing/PostType.php:31
+msgctxt "Listing post type name"
+msgid "Listings"
+msgstr "Anuncios"
+
+#: src/Listing/Fields.php:56
+msgid "Cannot retrieve data. Please try again later."
+msgstr "No se pueden obtener datos. Por favor, inténtalo de nuevo más tarde."
+
+#: src/Listing/Fields.php:55
+msgid "Please select a year, make and model."
+msgstr "Por favor, selecciona un año, marca y modelo."
+
+#: src/Enquiry/fields/02-contact.php:73
+msgid "Contact"
+msgstr "Contacto"
+
+#: src/Enquiry/fields/02-contact.php:32
+msgid "Contact Information"
+msgstr "Información de contacto"
+
+#: src/Enquiry/fields/02-contact.php:21
+msgid "Listing Title"
+msgstr "Título del anuncio"
+
+#: src/Enquiry/PostType.php:42
+msgid "Enquiries list"
+msgstr "Lista de consultas"
+
+#: src/Enquiry/PostType.php:41
+msgid "Enquiries list navigation"
+msgstr "Navegación por la lista de consultas"
+
+#: src/Enquiry/PostType.php:40
+msgid "Filter enquiries list"
+msgstr "Filtrar lista de consultas"
+
+#: src/Enquiry/PostType.php:39
+msgctxt "enquiry post type menu name"
+msgid "Enquiries"
+msgstr "Consultas"
+
+#: src/Enquiry/PostType.php:37
+msgid "No enquiries found in Trash"
+msgstr "No se han encontrado consultas en la papelera"
+
+#: src/Enquiry/PostType.php:36
+msgid "No enquiries found"
+msgstr "No se encontraron consultas"
+
+#: src/Enquiry/PostType.php:35
+msgid "Search Enquiries"
+msgstr "Buscar consultas"
+
+#: src/Enquiry/PostType.php:34
+msgid "View Enquiry"
+msgstr "Ver la consulta"
+
+#: src/Enquiry/PostType.php:29 src/Enquiry/PostType.php:32
+msgid "New Enquiry"
+msgstr "Nueva consulta"
+
+#: src/Enquiry/PostType.php:31
+msgid "Edit Enquiry"
+msgstr "Editar la consulta"
+
+#: src/Enquiry/PostType.php:30
+msgid "Add New Enquiry"
+msgstr "Añadir una nueva consulta"
+
+#: src/Enquiry/PostType.php:28
+msgctxt "Singular enquiry post type name"
+msgid "Enquiry"
+msgstr "Consulta"
+
+#: src/Enquiry/PostType.php:27
+msgctxt "Enquiry post type name"
+msgid "Enquiries"
+msgstr "Consultas"
+
+#: src/Admin/settings/17-sidebar-products.php:19
+msgid "Our WordPress Products"
+msgstr "Nuestros productos para WordPress"
+
+#: src/Admin/settings/17-sidebar-products.php:14
+msgid "Free and Premium WordPress Themes"
+msgstr "Temas gratuítos y premium para WordPress"
+
+#: src/Admin/settings/17-sidebar-products.php:14
+msgid "GretaThemes"
+msgstr "GretaThemes"
+
+#: src/Admin/settings/17-sidebar-products.php:12
+msgid "Custom Fields Framework for WordPress"
+msgstr "Custom Fields Framework for WordPress"
+
+#: auto-listings.php:63 src/Admin/settings/17-sidebar-products.php:12
+msgid "Meta Box"
+msgstr "Meta Box"
+
+#: src/Admin/settings/17-sidebar-products.php:11
+msgid " Like this plugin? Check out our other WordPress products:"
+msgstr " ¿Te gusta este plugin? Echa un vistazo a nuestros otros productos para WordPress:"
+
+#: src/Admin/settings/16-sidebar-service.php:10
+msgid "Customization Service"
+msgstr "Servicio de personalización"
+
+#: src/Admin/settings/16-sidebar-service.php:5
+msgid "Send us an email"
+msgstr "Envíanos un correo electrónico"
+
+#: src/Admin/settings/16-sidebar-service.php:4
+msgid "We offer customization service with affordable price."
+msgstr "Ofrecemos servicio de personalización a un precio asequible."
+
+#: src/Admin/settings/16-sidebar-service.php:3
+msgid "Need to customize the plugin to suit your needs?"
+msgstr "¿Necesitas personalizar este plugin para adaptarlo a tus necesidades?"
+
+#: src/Admin/settings/04-listing-status.php:21
+msgid "+ Add Status"
+msgstr "+ Añadir estado"
+
+#: src/Admin/settings/04-listing-status.php:10
+msgid "Listing Statuses"
+msgstr "Características destacadas del vehículo"
+
+#. translators: permalink setting url
+#: src/Admin/settings/04-listing-setup.php:46
+#: src/Admin/settings/04-listing-setup.php:54
+msgid "Please visit <a target=\"_blank\" href=\"%s\">Settings &rarr; Permalinks</a> if this option is changed."
+msgstr "Por favor, visita «<a target=\"_blank\" href=\"%s\">Ajustes > Enlaces permanentes</a>» si se cambia esta opción."
+
+#: src/Admin/settings/02-general-map.php:36
+msgid "Map Height (px)"
+msgstr "Altura del mapa (px)"
+
+#. translators: url
+#: src/Admin/settings/02-general-map.php:17
+msgid "A Google Maps API Key is required for Radius Searching and to show the maps on individual listing pages. You can get yours <strong><a target=\"_blank\" href=\"%s\">here</a></strong>."
+msgstr "Se necesita una clave de la API de Google Maps para el radio de búsqueda y para mostrar los mapas en páginas individuales de los anuncios. Puedes obtener la tuya <strong><a target=\"_blank\" href=\"%s\">aquí</a></strong>."
+
+#: src/Admin/settings/02-general-map.php:15
+msgid "Google Maps API Key"
+msgstr "Clave API de Google Maps"
+
+#: src/Admin/settings/02-general-map.php:10
+msgid "Maps &amp; Search"
+msgstr "Mapas y búsqueda"
+
+#: src/Admin/Settings.php:23
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: src/Admin/Settings.php:21
+msgid "Display"
+msgstr "Mostrar"
+
+#: src/Admin/Settings.php:20
+msgid "Fields"
+msgstr "Campos"
+
+#: src/Admin/Settings.php:18
+msgid "General"
+msgstr "General"
+
+#: src/Admin/Settings.php:15 src/Enquiry/fields/01-settings.php:22
+#: src/Listing/fields/06-settings.php:52
+msgid "Settings"
+msgstr "Ajustes"
+
+#: auto-listings.php:60
+msgid "activate"
+msgstr "activar"
+
+#: auto-listings.php:60
+msgid "install"
+msgstr "instalar"
+
+#: src/SearchForm/Editor.php:108
+msgid "Type"
+msgstr "Tipo"
+
+#: auto-listings.php:27
+msgid "Auto listings plugin requires PHP version 7.2+. Please contact your host and ask them to upgrade."
+msgstr "El plugin Auto listings necesita la versión 7.2 o superior de PHP. Por favor, contacta con tu alojamiento y pídele que lo actualice."
+
+#: src/Admin/settings/04-listing-setup.php:34
+msgid "Grid"
+msgstr "Cuadrícula"
+
+#: src/Admin/settings/04-listing-setup.php:33
+msgid "List"
+msgstr "Lista"
+
+#: src/Admin/settings/04-listing-setup.php:29
+msgid "Set the default view for listings"
+msgstr "Establecer la vista por defecto para los anuncios"
+
+#: src/Admin/settings/04-listing-setup.php:28
+msgid "Default List/Grid View"
+msgstr "Vista de lista/cuadrícula por defecto"
+
+#: src/Listing/fields/01-select.php:68
+msgid "Once your vehicle is selected, hit the button to automatically populate the fields below."
+msgstr "Una vez seleccionado el vehículo, haz clic en el botón para rellenar automáticamente los siguientes campos."
+
+#: src/Listing/fields/01-select.php:23
+msgid "Click the button to load Make & Model data into the dropdowns."
+msgstr "Haz clic en el botón para cargar los datos de marca y modelo en los menús desplegables."
+
+#: src/Listing/fields/05-address.php:31
+msgid "Fields below used for search purposes only."
+msgstr "Los siguientes campos son usados solamente para búsquedas."
+
+#: src/Listing/fields/05-address.php:31
+msgid "The address that will be displayed."
+msgstr "Dirección que se mostrará."
+
+#: src/Listing/fields/05-address.php:21
+msgid "Start typing address..."
+msgstr "Comienza a escribir la dirección..."
+
+#: src/functions-listing.php:152 src/functions-listing.php:156
+#: src/functions-listing.php:160
+msgid "Data from this field is used for the \"Engine\" icon text"
+msgstr "Los datos de este campo se utilizan para el texto del icono «Motor»"
+
+#: src/functions-listing.php:10 src/functions-listing.php:14
+#: src/functions-listing.php:18 src/functions-listing.php:22
+#: src/functions-listing.php:26 src/functions-listing.php:30
+#: src/functions-listing.php:36 src/functions-listing.php:40
+#: src/functions-listing.php:46 src/functions-listing.php:152
+#: src/functions-listing.php:156 src/functions-listing.php:160
+msgid " (Recommended)"
+msgstr " (Recomendado)"
+
+#: src/Admin/settings/07-display-colors.php:39
+msgid "Listing Icons"
+msgstr "Iconos de anuncio"
+
+#: src/Admin/settings/07-display-colors.php:33
+msgid "Contact Icons"
+msgstr "Iconos de contacto"
+
+#: src/SearchForm/Shortcode/Field.php:32
+msgid "Drive Types"
+msgstr "Tipos de tracción"
+
+#: src/Listing/fields/06-settings.php:19
+msgid "Adding a Seller will automatically insert the Contact Form on the listing and all enquiries will be sent to this seller."
+msgstr "Al añadir un nuevo vendedor se inserta automáticamente el formulario de contacto en el anuncio, y todas las solicitudes de información serán enviadas a ese vendedor."
+
+#: src/Admin/settings/01-general-units.php:20
+msgid "Imperial"
+msgstr "Imperial"
+
+#: src/Admin/settings/01-general-units.php:19
+msgid "Metric"
+msgstr "Métrica"
+
+#: src/Admin/settings/01-general-units.php:15
+msgid "Metric or Imperial"
+msgstr "Métrica o Imperial"
+
+#: src/Admin/settings/01-general-units.php:10
+msgid "Measurements"
+msgstr "Sistema de unidades"
+
+#. Author of the plugin
+msgid "WP Auto Listings"
+msgstr "WP Auto Listings"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://wpautolistings.com"
+msgstr "https://wpautolistings.com"
+
+#: templates/single-listing/tabs/details.php:29
+msgid "Fuel Economy Combined"
+msgstr "Consumo combinado"
+
+#: src/SearchForm/Editor.php:90 src/SearchForm/Shortcode/Field.php:33
+#: templates/single-listing/tabs/details.php:28
+msgid "Engine"
+msgstr "Motor"
+
+#: src/functions-listing.php:35 src/SearchForm/Editor.php:89
+#: templates/single-listing/tabs/details.php:27
+msgid "Drive Type"
+msgstr "Tipo de tracción"
+
+#: templates/single-listing/tabs/details.php:26
+msgid "Body"
+msgstr "Carrocería"
+
+#: src/SearchForm/Editor.php:92 src/SearchForm/Shortcode/Field.php:41
+#: templates/single-listing/tabs/details.php:25
+msgid "Transmission"
+msgstr "Cambio"
+
+#: templates/single-listing/contact-form.php:16
+msgid "Quick Contact"
+msgstr "Contacto rápido"
+
+#: templates/single-listing/address.php:21
+msgid "Listing Location:"
+msgstr "Ubicación del anuncio:"
+
+#: templates/loop/orderby.php:27
+msgid "Price (High to Low)"
+msgstr "Precio (mayor a menor)"
+
+#: templates/loop/orderby.php:26
+msgid "Price (Low to High)"
+msgstr "Precio (menor a mayor)"
+
+#: templates/loop/orderby.php:25
+msgid "Oldest Listings"
+msgstr "Anuncios más antiguos"
+
+#: templates/loop/orderby.php:24
+msgid "Newest Listings"
+msgstr "Anuncios más recientes"
+
+#: src/Listing/PostType.php:33 src/Listing/PostType.php:36
+#: templates/loop/image.php:33 templates/single-listing/gallery.php:25
+msgid "New Listing"
+msgstr "Nuevo anuncio"
+
+#: templates/loop/bottom.php:19 templates/single-listing/price.php:21
+msgid " Vehicle"
+msgstr " Vehículo"
+
+#: templates/loop/bottom.php:17
+msgid "More Details"
+msgstr "Más detalles"
+
+#: templates/loop/bottom.php:17
+msgid "View"
+msgstr "Ver"
+
+#: src/Shortcodes.php:58 src/Shortcodes.php:110
+#: templates/archive-listing.php:75
+msgid "Sorry, no listings were found."
+msgstr "Lo siento, no se han encontrado anuncios."
+
+#: src/functions-sidebars.php:24
+msgid "Widgets in this area will be shown on all listings pages."
+msgstr "Los widgets en esta área se mostrarán en todas las páginas de anuncios."
+
+#: src/functions-listing.php:199
+msgid "Engine Compression Ratio"
+msgstr "Relación de compresión del motor"
+
+#: src/functions-listing.php:196
+msgid "Engine Stroke (mm)"
+msgstr "Carrera del cilindro (mm)"
+
+#: src/functions-listing.php:193
+msgid "Engine Bore (mm)"
+msgstr "Diámetro de cilindro (mm)"
+
+#: src/functions-listing.php:190
+msgid "Engine Max Torque RPM"
+msgstr "RPM con par máximo"
+
+#: src/functions-listing.php:187
+msgid "Engine Max Torque (kgf-m)"
+msgstr "Par máximo (kgf-m)"
+
+#: src/functions-listing.php:184
+msgid "Engine Max Torque (Lb-Ft)"
+msgstr "Par máximo (Lb-Ft)"
+
+#: src/functions-listing.php:181
+msgid "Engine Max Torque (NM)"
+msgstr "Par máximo (NM)"
+
+#: src/functions-listing.php:178
+msgid "Engine Max Power RPM"
+msgstr "RPM a potencia máxima"
+
+#: src/functions-listing.php:175
+msgid "Engine Max Power (PS)"
+msgstr "Potencia máx. (PS)"
+
+#: src/functions-listing.php:172
+msgid "Engine Max Power (kW)"
+msgstr "Potencia máx. (kW)"
+
+#: src/functions-listing.php:169
+msgid "Engine Max Power (HP)"
+msgstr "Potencia máx. (HP)"
+
+#: src/functions-listing.php:166
+msgid "Engine Valves Per Cyl"
+msgstr "Válvulas por cilindro"
+
+#: src/functions-listing.php:163
+msgid "Engine Valves"
+msgstr "Número de válvulas"
+
+#: src/functions-listing.php:159
+msgid "Engine Cylinders"
+msgstr "Número de cilindros"
+
+#: src/functions-listing.php:155
+msgid "Engine (l)"
+msgstr "Motor (l)"
+
+#: src/functions-listing.php:151
+msgid "Engine Type"
+msgstr "Tipo de motor"
+
+#: src/functions-listing.php:148
+msgid "Engine Location"
+msgstr "Ubicación del motor"
+
+#: src/functions-listing.php:140
+msgid "Engine Displacement (ci)"
+msgstr "Cilindrada (ci)"
+
+#: src/functions-listing.php:135
+msgid "Top Speed (mph)"
+msgstr "Velocidad máxima (mph)"
+
+#: src/functions-listing.php:132
+msgid "0-62 mph"
+msgstr "0-62 mph"
+
+#: src/functions-listing.php:127
+msgid "Wheelbase (in)"
+msgstr "Distancia entre ejes (in)"
+
+#: src/functions-listing.php:124
+msgid "Height (in)"
+msgstr "Altura (in)"
+
+#: src/functions-listing.php:121
+msgid "Width (in)"
+msgstr "Anchura (in)"
+
+#: src/functions-listing.php:118
+msgid "Length (in)"
+msgstr "Longitud (in)"
+
+#: src/functions-listing.php:115
+msgid "Weight (lbs)"
+msgstr "Peso (lbs)"
+
+#: src/functions-listing.php:110
+msgid "Fuel Capacity (g)"
+msgstr "Capacidad depósito combustible (g)"
+
+#: src/functions-listing.php:107
+msgid "Fuel Economy Mixed (mpg)"
+msgstr "Consumo mixto (mpg)"
+
+#: src/functions-listing.php:104
+msgid "Fuel Economy City (mpg)"
+msgstr "Consumo en ciudad (mpg)"
+
+#: src/functions-listing.php:101
+msgid "Fuel Economy Highway (mpg)"
+msgstr "Consumo en autopista (mpg)"
+
+#: src/functions-listing.php:93
+msgid "Engine Displacement (cc)"
+msgstr "Cilindrada (cc)"
+
+#: src/functions-listing.php:88
+msgid "Top Speed (KPH)"
+msgstr "Velocidad máxima (kph)"
+
+#: src/functions-listing.php:85
+msgid "0-100 kph"
+msgstr "0-100 kph"
+
+#: src/functions-listing.php:80
+msgid "Wheelbase (mm)"
+msgstr "Distancia entre ejes (mm)"
+
+#: src/functions-listing.php:77
+msgid "Height (mm)"
+msgstr "Altura (mm)"
+
+#: src/functions-listing.php:74
+msgid "Width (mm)"
+msgstr "Anchura (mm)"
+
+#: src/functions-listing.php:71
+msgid "Length (mm)"
+msgstr "Longitud (mm)"
+
+#: src/functions-listing.php:68
+msgid "Weight (kg)"
+msgstr "Peso (kg)"
+
+#: src/functions-listing.php:63
+msgid "Fuel Capacity (l):"
+msgstr "Capacidad depósito combustible (l):"
+
+#: src/functions-listing.php:60
+msgid "Fuel Economy City (l/100km)"
+msgstr "Consumo en ciudad (l/100km)"
+
+#: src/functions-listing.php:57
+msgid "Fuel Economy Mixed (l/100km)"
+msgstr "Consumo mixto (l/100km)"
+
+#: src/functions-listing.php:54
+msgid "Fuel Economy Highway (l/100km)"
+msgstr "Consumo en autopista (l/100km)"
+
+#: src/functions-listing.php:45 src/SearchForm/Editor.php:93
+#: src/SearchForm/Shortcode/Field.php:34
+msgid "Fuel Type"
+msgstr "Combustible"
+
+#: src/functions-listing.php:39
+msgid "Transmission Type"
+msgstr "Tipo de transmisión"
+
+#: src/functions-listing.php:29
+msgid "Doors"
+msgstr "Puertas"
+
+#: src/functions-listing.php:25
+msgid "Seats"
+msgstr "Plazas"
+
+#: src/functions-listing.php:17 src/SearchForm.php:245
+#: src/SearchForm/Editor.php:86 src/SearchForm/Shortcode/Field.php:38
+msgid "Model"
+msgstr "Modelo"
+
+#: src/functions-listing.php:13 src/SearchForm.php:225
+#: src/SearchForm/Editor.php:85 src/SearchForm/Shortcode/Field.php:35
+msgid "Make"
+msgstr "Marca"
+
+#: src/functions-listing.php:9 src/SearchForm.php:205
+#: src/SearchForm/Editor.php:94 src/SearchForm/Shortcode/Field.php:43
+msgid "Year"
+msgstr "Año"
+
+#: src/functions-listing.php:431
+msgid "n/a"
+msgstr "n/d"
+
+#: src/functions-listing.php:425
+msgid "mpg"
+msgstr "mpg"
+
+#: src/functions-listing.php:423
+msgid "L/km"
+msgstr "L/km"
+
+#: src/functions-listing.php:414
+msgid " cylinder"
+msgstr " cilindro"
+
+#: src/functions-formatting.php:41
+msgid "kph"
+msgstr "km/h"
+
+#: src/functions-formatting.php:41
+msgid "mph"
+msgstr "mph"
+
+#: src/functions-formatting.php:33
+msgid "km"
+msgstr "km"
+
+#: src/functions-formatting.php:33
+msgid "mi"
+msgstr "mi"
+
+#: src/functions-formatting.php:25
+msgid "Kilometers"
+msgstr "Kilómetros"
+
+#: src/functions-formatting.php:25
+msgid "Miles"
+msgstr "Millas"
+
+#. Translators: %s is page number.
+#: src/Frontend/template-tags.php:211
+msgid "&nbsp;&ndash; Page %s"
+msgstr "&nbsp;&ndash; Página %s"
+
+#. Translators: %s is listing title.
+#: src/Frontend/template-tags.php:207
+msgid "Search Results %s"
+msgstr "Resultados de la búsqueda: %s"
+
+#: src/Frontend/template-tags.php:152 src/Listing/fields/03-specs.php:34
+#: templates/single-listing/tabs/specifications.php:21
+msgid "Specifications"
+msgstr "Especificaciones"
+
+#: src/Frontend/template-tags.php:145 src/Listing/fields/02-details.php:81
+#: templates/single-listing/tabs/details.php:16
+msgid "Details"
+msgstr "Detalles"
+
+#: src/SearchForm.php:65
+msgid "More Refinements"
+msgstr "Más filtros"
+
+#: src/SearchForm.php:64
+msgid "Find My Car"
+msgstr "Encuentra mi coche"
+
+#: src/SearchForm.php:63
+msgid "State, Zip, Town"
+msgstr "Provincia, Código Postal, Ciudad"
+
+#: src/SearchForm.php:336
+msgid "Max Mileage"
+msgstr "Kilometraje máximo"
+
+#: src/SearchForm.php:299
+msgid "within"
+msgstr "en un radio de"
+
+#: src/SearchForm.php:287
+msgid "to"
+msgstr "a"
+
+#: src/SearchForm.php:286
+msgid "max"
+msgstr "máx"
+
+#: src/SearchForm.php:274
+msgid "priced from"
+msgstr "precio desde"
+
+#: src/SearchForm.php:273
+msgid "min"
+msgstr "mín"
+
+#: src/SearchForm.php:261
+msgid "I'm looking for "
+msgstr "Busco "
+
+#: src/SearchForm.php:260
+msgid "condition"
+msgstr "condiciones"
+
+#: src/Roles.php:14
+msgid "Auto Listings Seller"
+msgstr "Vendedor en Auto Listings"
+
+#: src/Listing/PostType.php:85
+msgid "Body Types"
+msgstr "Tipos de carrocería"
+
+#: src/Listing/fields/02-details.php:47 src/SearchForm.php:324
+#: src/SearchForm/Editor.php:88 src/SearchForm/Shortcode/Field.php:30
+msgid "Body Type"
+msgstr "Tipo de carrocería"
+
+#: src/Listing/PostType.php:43
+msgctxt "listing post type menu name"
+msgid "Listings"
+msgstr "Anuncios"
+
+#. translators: number of archived listings.
+#: src/Listing/PostStatuses.php:38
+msgid "Archive <span class=\"count\">(%s)</span>"
+msgid_plural "Archived <span class=\"count\">(%s)</span>"
+msgstr[0] "Archivo <span class=\"count\">(%s)</span>"
+msgstr[1] "Archived <span class=\"count\">(%s)</span>"
+
+#: src/Listing/PostStatuses.php:31
+msgctxt "post"
+msgid "Archive"
+msgstr "Archivo"
+
+#: src/Enquiry/ContactForm.php:30
+msgid "Send Enquiry"
+msgstr "Enviar consulta"
+
+#. Translators: % is listing id.
+#: src/Enquiry/ContactForm.php:65
+msgid "Enquiry on listing #%s"
+msgstr "Consulta sobre el anuncio #%s"
+
+#: src/Enquiry/fields/02-contact.php:60 src/Enquiry/fields/02-contact.php:64
+msgid "Message"
+msgstr "Mensaje"
+
+#: src/Enquiry/fields/02-contact.php:53 src/Enquiry/fields/02-contact.php:56
+msgid "Phone"
+msgstr "Teléfono"
+
+#: src/Enquiry/fields/02-contact.php:45 src/Enquiry/fields/02-contact.php:49
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: src/Enquiry/fields/02-contact.php:37 src/Enquiry/fields/02-contact.php:41
+msgid "Name"
+msgstr "Nombre"
+
+#: src/Listing/fields/01-select.php:64
+msgid "Populate The Fields"
+msgstr "Rellenar los campos"
+
+#: src/Listing/fields/01-select.php:19
+msgid "Load Makes &amp; Models"
+msgstr "Cargar marcas y modelos"
+
+#. translators: %s is name of listing.
+#: src/functions.php:282
+msgid "There was an error archiving this %s"
+msgstr "Se ha producido un error al archivar este %s"
+
+#. translators: %s is name of listing.
+#: src/functions.php:276
+msgid "This %s is now archived."
+msgstr "Este %s está ahora archivado."
+
+#: src/functions.php:238 src/Listing/PostStatuses.php:57
+#: src/Listing/PostStatuses.php:67 src/Listing/PostStatuses.php:86
+msgid "Archived"
+msgstr "Archivado"
+
+#. translators: %s is name of listing.
+#: src/functions.php:217
+msgid "Hit the Publish button to un-archive it."
+msgstr "Pulse el botón Publicar para desarchivarlo."
+
+#. translators: %s is name of listing.
+#: src/functions.php:217
+msgid "This %s is archived."
+msgstr "Este %s está archivado."
+
+#. translators: %s is name of listing.
+#: src/functions.php:212
+msgid "Archive This %s"
+msgstr "Archivar este %s"
+
+#. translators: %s is the time.
+#: src/functions.php:205
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr "hace %s"
+
+#. translators: %s is the time.
+#: src/functions.php:205
+msgid "Most Recent:"
+msgstr "Más reciente:"
+
+#. translators: %s is number of enquiry.
+#: src/functions.php:201
+msgid "%s Enquiry"
+msgid_plural "%s Enquiries"
+msgstr[0] "%s Solicitud"
+msgstr[1] "%s Enquiries"
+
+#: src/functions.php:172
+msgid "Modify the marker's position by dragging it."
+msgstr "Modifica la posición del marcador arrastrándolo."
+
+#: src/functions.php:164 src/SearchForm/Editor.php:115
+msgid "Reset"
+msgstr "Restablecer"
+
+#: src/functions.php:163
+msgid "Find"
+msgstr "Buscar"
+
+#: src/functions.php:106
+msgid "No Seller"
+msgstr "No hay vendedor"
+
+#: src/Listing/fields/06-settings.php:42
+msgid "Map"
+msgstr "Mapa"
+
+#: src/Admin/Settings.php:22 src/Listing/fields/06-settings.php:41
+msgid "Contact Form"
+msgstr "Formulario de contacto"
+
+#: src/Listing/fields/06-settings.php:36
+msgid "Hide items on the frontend, even if filled in."
+msgstr "Ocultar elementos en el interfaz de usuario, incluso si se han completado los campos."
+
+#: src/Listing/fields/06-settings.php:35
+msgid "Hide Items"
+msgstr "Ocultar elementos"
+
+#: src/Listing/fields/05-address.php:67
+msgid "Longitude"
+msgstr "Longitud"
+
+#: src/Listing/fields/05-address.php:61
+msgid "Latitude"
+msgstr "Latitud"
+
+#: src/Admin/settings/18-listing-state.php:24
+#: src/Listing/fields/05-address.php:49
+msgid "State"
+msgstr "Situación"
+
+#: src/Listing/fields/05-address.php:43
+msgid "Zip / Postal Code"
+msgstr "Código postal"
+
+#: src/Listing/fields/05-address.php:37
+msgid "City / Town / Locality"
+msgstr "Ciudad / Pueblo / Localidad"
+
+#: src/Listing/fields/05-address.php:30
+msgid "Displayed Address"
+msgstr "Dirección mostrada"
+
+#: src/Listing/fields/05-address.php:18
+msgid "Vehicle Location"
+msgstr "Ubicación del vehículo"
+
+#: src/Listing/fields/02-details.php:41
+#: templates/single-listing/tabs/details.php:24
+msgid "Registration"
+msgstr "Año de matriculación"
+
+#: src/Listing/fields/02-details.php:35
+#: templates/single-listing/tabs/details.php:23
+msgid "Color"
+msgstr "Color"
+
+#: src/Listing/fields/02-details.php:20
+msgid "Optional text after price."
+msgstr "Texto opcional tras el precio."
+
+#: src/Listing/fields/02-details.php:19 src/SearchForm/Editor.php:111
+msgid "Suffix"
+msgstr "Sufijo"
+
+#: src/Listing/fields/04-gallery.php:12
+msgid "Image Gallery"
+msgstr "Galería de imágenes"
+
+#: src/Listing/fields/01-select.php:53
+msgid "Trims"
+msgstr "Acabados"
+
+#: src/Listing/fields/01-select.php:44
+msgid "Models"
+msgstr "Modelos"
+
+#: src/Listing/fields/01-select.php:35
+msgid "Makes"
+msgstr "Marcas"
+
+#: src/Listing/fields/01-select.php:26
+msgid "Years"
+msgstr "Años"
+
+#: src/Listing/fields/01-select.php:12
+msgid "Vehicle Select"
+msgstr "Selección de vehículo"
+
+#: src/Admin/SellerColumns.php:37
+msgid "Office Phone"
+msgstr "Teléfono de la oficina"
+
+#: src/Admin/SellerColumns.php:36
+msgid "Mobile"
+msgstr "Móvil"
+
+#. Plugin Name of the plugin
+#: auto-listings.php:62
+msgid "Auto Listings"
+msgstr "Auto Listings"
+
+#: src/Admin/settings/14-extensions.php:11
+msgid "There are a number of premium extensions available at <a href=\"http://wpautolistings.com/docs/?utm_source=plugin&utm_medium=settings_page&utm_content=extensions\" target=\"_blank\">www.wpautolistings.com</a> that will take your automotive website to the next level."
+msgstr "Existen extensiones premium disponibles en <a href=\"http://wpautolistings.com/docs/?utm_source=plugin&utm_medium=settings_page&utm_content=extensions\" target=\"_blank\">www.wpautolistings.com</a> que llevarán tu página web al siguiente nivel."
+
+#: src/Admin/Settings.php:24 src/Admin/settings/14-extensions.php:72
+msgid "Extensions"
+msgstr "Extensiones"
+
+#: src/Admin/settings/12-advanced-themes.php:25
+msgid "Override the closing HTML tags for all Listings pages."
+msgstr "Anular las etiquetas HTML de cierre en todas las páginas de anuncios."
+
+#: src/Admin/settings/12-advanced-themes.php:24
+msgid "Closing HTML Tag(s)"
+msgstr "Etiqueta(s) de cierre de HTML"
+
+#: src/Admin/settings/12-advanced-themes.php:17
+#: src/Admin/settings/12-advanced-themes.php:26
+msgid "This can help you to match the HTML with your current theme."
+msgstr "Esto puede ayudarte a casar el HTML con tu tema actual."
+
+#: src/Admin/settings/12-advanced-themes.php:16
+msgid "Override the opening HTML tags for all Listings pages."
+msgstr "Anular las etiquetas HTML de apertura en todas las páginas de anuncios."
+
+#: src/Admin/settings/12-advanced-themes.php:15
+msgid "Opening HTML Tag(s)"
+msgstr "Etiqueta(s) HTML de apertura"
+
+#: src/Admin/settings/12-advanced-themes.php:10
+msgid "Theme Compatibility"
+msgstr "Compatibilidad con el tema"
+
+#: src/Admin/settings/11-contact-messages.php:19
+msgid "Thank you, we will be in touch with you soon."
+msgstr "Gracias, nos pondremos en contacto contigo lo antes posible."
+
+#: src/Admin/settings/11-contact-messages.php:16
+msgid "The message that is displayed to users upon successfully sending a message."
+msgstr "El mensaje que se muestra a los usuarios al enviar correctamente un mensaje."
+
+#: src/Admin/settings/11-contact-messages.php:15
+msgid "Success Message"
+msgstr "Mensaje de éxito"
+
+#: src/Admin/settings/11-contact-messages.php:10
+msgid "Contact Form Messages"
+msgstr "Mensajes del formulario de contacto"
+
+#: src/Admin/settings/09-contact-email.php:51 src/Enquiry/ContactForm.php:145
+msgid "Message: {enquiry_message}"
+msgstr "Mensaje: {enquiry_message}"
+
+#: src/Admin/settings/09-contact-email.php:50 src/Enquiry/ContactForm.php:144
+msgid "Phone: {enquiry_phone}"
+msgstr "Teléfono: {enquiry_phone}"
+
+#: src/Admin/settings/09-contact-email.php:49 src/Enquiry/ContactForm.php:143
+msgid "Email: {enquiry_email}"
+msgstr "Correo electrónico: {enquiry_email}"
+
+#: src/Admin/settings/09-contact-email.php:48 src/Enquiry/ContactForm.php:142
+msgid "Name: {enquiry_name}"
+msgstr "Nombre: {enquiry_name}"
+
+#: src/Admin/settings/09-contact-email.php:46 src/Enquiry/ContactForm.php:141
+msgid "There has been a new enquiry on <strong>{listing_title}</strong>"
+msgstr "Ha habido una nueva consulta en <strong>{listing_title}</strong>"
+
+#: src/Admin/settings/09-contact-email.php:45 src/Enquiry/ContactForm.php:140
+msgid "Hi {seller_name},"
+msgstr "Hola {seller_name},"
+
+#: src/Admin/settings/09-contact-email.php:32
+msgid "Email Message"
+msgstr "Mensaje del correo electrónico"
+
+#: src/Admin/settings/09-contact-email.php:28 src/Enquiry/ContactForm.php:129
+msgid "New enquiry on listing #{listing_id}"
+msgstr "Nueva consulta acerca del anuncio # {listing_id}"
+
+#: src/Admin/settings/09-contact-email.php:25
+msgid "Email Subject"
+msgstr "Asunto del correo electrónico"
+
+#: src/Admin/settings/09-contact-email.php:20
+msgid "Plain Text"
+msgstr "Texto sin formato"
+
+#: src/Admin/settings/09-contact-email.php:19
+msgid "HTML"
+msgstr "HTML"
+
+#: src/Admin/settings/09-contact-email.php:15
+msgid "Email Type"
+msgstr "Tipo de correo electrónico"
+
+#: src/Admin/settings/09-contact-email.php:10
+msgid "Contact Form Email"
+msgstr "Correo electrónico del formulario de contacto"
+
+#: src/Admin/settings/10-contact-settings.php:38
+msgid "Extra email addresses that are BCC'd on every enquiry (comma separated)."
+msgstr "Direcciones de correo adicionales usadas en modo CCO en cada consulta (separadas por comas)."
+
+#: src/Admin/settings/10-contact-settings.php:37
+msgid "BCC"
+msgstr "CCO"
+
+#: src/Admin/settings/10-contact-settings.php:31
+msgid "Extra email addresses that are CC'd on every enquiry (comma separated)."
+msgstr "Direcciones de correo adicionales utilizadas en modo CC en cada consulta (separadas por comas)."
+
+#: src/Admin/settings/10-contact-settings.php:30
+msgid "CC"
+msgstr "CC"
+
+#: src/Admin/settings/10-contact-settings.php:24
+msgid "The \"from\" name for all enquiry emails that are sent to Sellers."
+msgstr "Nombre del remitente para todos los correos electrónicos de consulta enviados a los vendedores."
+
+#: src/Admin/settings/10-contact-settings.php:23
+msgid "Email From Name"
+msgstr "Nombre del remitente del correo electrónico"
+
+#: src/Admin/settings/10-contact-settings.php:20
+msgid "Therefore, it is important to include the seller on each listing."
+msgstr "Por lo tanto, es importante incluir al vendedor en cada anuncio."
+
+#: src/Admin/settings/10-contact-settings.php:20
+msgid "Contact form enquiries are sent directly to the selected Seller on that listing."
+msgstr "Las solicitudes del formulario de contacto se envían directamente al vendedor seleccionado en ese anuncio."
+
+#: src/Admin/settings/10-contact-settings.php:16
+msgid "The \"from\" address for all enquiry emails that are sent to Sellers."
+msgstr "La dirección del remitente para todos los correos electrónicos de consulta enviados a los vendedores."
+
+#: src/Admin/settings/10-contact-settings.php:15
+msgid "Email From"
+msgstr "Correo electrónico del remitente"
+
+#: src/Admin/settings/10-contact-settings.php:10
+msgid "Contact Form Settings"
+msgstr "Ajustes del formulario de contacto"
+
+#: src/Admin/settings/07-display-colors.php:21
+msgid "Button Text"
+msgstr "Texto del botón"
+
+#: src/Admin/settings/07-display-colors.php:16
+msgid "Background color for buttons. Also used as highlight color in search field, tabs and image gallery."
+msgstr "Color de fondo para los botones. También se utiliza como color de resaltado en el campo de búsqueda, pestañas y galería de imágenes."
+
+#: src/Admin/settings/07-display-colors.php:15
+msgid "Button Background"
+msgstr "Fondo del botón"
+
+#: src/Admin/settings/07-display-colors.php:10
+msgid "Colors"
+msgstr "Colores"
+
+#: src/Admin/settings/06-display-columns.php:23
+msgid "4 Column"
+msgstr "4 columnas"
+
+#: src/Admin/settings/06-display-columns.php:22
+msgid "3 Column"
+msgstr "3 columnas"
+
+#: src/Admin/settings/06-display-columns.php:21
+msgid "2 Column"
+msgstr "2 columnas"
+
+#: src/Admin/settings/06-display-columns.php:16
+msgid "The number of columns to display on the archive page, when viewing listings in grid mode."
+msgstr "El número de columnas a mostrar en la página de archivo al visualizar los anuncios en modo de cuadrícula."
+
+#: src/Admin/settings/06-display-columns.php:15
+msgid "Number of Columns"
+msgstr "Número de columnas"
+
+#: src/Admin/settings/06-display-columns.php:10
+msgid "Columns"
+msgstr "Columnas"
+
+#: src/Admin/settings/05-fields-spec.php:27
+msgid "The specification fields you would like to display in the admin and frontend."
+msgstr "Los campos de especificaciones que te gustaría mostrar en la administración y en la vista pública."
+
+#: src/Admin/settings/05-fields-spec.php:26
+msgid "Spec Fields to Display"
+msgstr "Campos de especificaciones a mostrar"
+
+#: src/Admin/settings/05-fields-spec.php:21
+msgid "Listing Spec Fields"
+msgstr "Campos de especificaciones del anuncio"
+
+#. translators: docs link
+#: src/Admin/settings/04-listing-status.php:45
+msgid "Can also use FontAwesome icon classes such as \"fa fa-caret-left\"."
+msgstr "También puedes usar las clases de iconos de Font Awesome como «fa fa-caret-left»."
+
+#. translators: docs link
+#: src/Admin/settings/04-listing-status.php:45
+msgid "Add icon class to display an icon. See %s for available icons."
+msgstr "Añadir una clase de icono para mostrar un icono. Consulta %s para ver los iconos disponibles."
+
+#: src/Admin/settings/04-listing-status.php:40
+msgid "Icon Class"
+msgstr "Clase del icono"
+
+#: src/Admin/settings/04-listing-status.php:35
+#: src/Admin/settings/18-listing-state.php:30
+msgid "Text Color"
+msgstr "Color de texto"
+
+#: src/Admin/settings/04-listing-status.php:30
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: src/Admin/settings/04-listing-status.php:20
+msgid "Status {#}"
+msgstr "Característica destacada {#}"
+
+#: src/Admin/settings/04-listing-status.php:16
+msgid "Statuses appear in a styled box over the listing's image and are used primarily to attract attention."
+msgstr "Las características destacadas del vehículo aparecen en un cuadro decorado sobre la imagen del anuncio, principalmente para atraer la atención."
+
+#: src/Admin/settings/04-listing-status.php:16
+msgid "Once statuses have been added here, they are then available in the <strong>Status</strong> dropdown field when adding or editing a listing."
+msgstr "Una vez que se hayan añadido aquí las características destacadas, estarán disponibles en el campo desplegable <strong>Característica destacada</strong> al añadir o editar un anuncio."
+
+#. translators: permalink setting url
+#: src/Admin/settings/04-listing-setup.php:46
+msgid "The main page to display your listings (not the front page)."
+msgstr "La página principal para mostrar tus anuncios (no la página de portada)."
+
+#: src/Admin/settings/04-listing-setup.php:44
+msgid "Listings Page"
+msgstr "Página de anuncios"
+
+#: src/Admin/settings/04-listing-setup.php:39
+msgid "The background color of the new listing highlight. (Icon & text are white)"
+msgstr "Color de fondo para resaltar el nuevo anuncio. (los iconos y textos son blancos)"
+
+#: src/Admin/settings/04-listing-setup.php:38
+msgid "Highlight Color"
+msgstr "Color de resaltado"
+
+#: src/Admin/settings/04-listing-setup.php:23
+msgid "How many days to highlight new listings for? Leave blank for no highlight."
+msgstr "¿Cuántos días se mantiene destacado un anuncio nuevo? Déjalo en blanco para no destacar."
+
+#: src/Admin/settings/04-listing-setup.php:22
+msgid "Highlight New Listings"
+msgstr "Destacar los anuncios nuevos"
+
+#: src/functions.php:71
+msgid "Certified"
+msgstr "Certificado"
+
+#: src/functions.php:70
+msgid "Used"
+msgstr "Usado"
+
+#: src/functions.php:69
+msgid "New"
+msgstr "Nuevo"
+
+#: src/Admin/settings/04-listing-setup.php:16
+msgid "What type of condition vehicles are you selling?"
+msgstr "¿Qué tipo de vehículos vendes?"
+
+#: src/Admin/settings/04-listing-setup.php:10
+msgid "Listing Setup"
+msgstr "Configurar anuncio"
+
+#: src/Admin/settings/03-general-format.php:57
+msgid "Number of Decimals"
+msgstr "Número de decimales"
+
+#: src/Admin/settings/03-general-format.php:50
+msgid "Decimal Separator"
+msgstr "Símbolo decimal"
+
+#: src/Admin/settings/03-general-format.php:45
+msgid "Yes, include decimals in price"
+msgstr "Sí, incluir decimales en el precio"
+
+#: src/Admin/settings/03-general-format.php:44
+msgid "No, do not include decimals in price"
+msgstr "No, no incluir decimales en el precio"
+
+#: src/Admin/settings/03-general-format.php:39
+msgid "Include Decimals"
+msgstr "Incluir decimales"
+
+#: src/Admin/settings/03-general-format.php:32
+msgid "Thousand Separator"
+msgstr "Separador de miles"
+
+#: src/Admin/settings/03-general-format.php:26
+msgid "Currency Symbol"
+msgstr "Símbolo de moneda"
+
+#: src/Admin/settings/03-general-format.php:22
+msgid "Right with space (100 $)"
+msgstr "Derecha con espacio (100 €)"
+
+#: src/Admin/settings/03-general-format.php:21
+msgid "Left with space ($ 100)"
+msgstr "Izquierda con espacio ($ 100)"
+
+#: src/Admin/settings/03-general-format.php:20
+msgid "Right (100$)"
+msgstr "Derecha (100€)"
+
+#: src/Admin/settings/03-general-format.php:19
+msgid "Left ($100)"
+msgstr "Izquierda (€100)"
+
+#: src/Admin/settings/03-general-format.php:15
+msgid "Currency Position"
+msgstr "Posición del símbolo de moneda"
+
+#: src/Admin/settings/03-general-format.php:10
+msgid "Price Format"
+msgstr "Formato de precio"
+
+#: src/Admin/settings/02-general-map.php:30
+msgid "Map Zoom"
+msgstr "Zoom del mapa"
+
+#. translators: link
+#: src/Admin/settings/02-general-map.php:25
+msgid "Country name or two letter %s country code."
+msgstr "Nombre del país o las dos letras %s del código país."
+
+#. translators: link
+#: src/Admin/settings/02-general-map.php:25
+msgid "This will help return more relevant results within search."
+msgstr "Esto ayudará a devolver resultados de búsqueda más relevantes."
+
+#: src/Admin/settings/02-general-map.php:23 src/functions-listing.php:202
+#: src/Listing/fields/05-address.php:55
+msgid "Country"
+msgstr "País"
+
+#: src/Admin/settings/02-general-map.php:18
+msgid "Your users will have a better search experience by adding an API key."
+msgstr "Tus usuarios tendrán una mejor experiencia de búsqueda añadiendo una clave API."
+
+#. translators: url
+#: src/Admin/settings/02-general-map.php:17
+msgid "If you don't add an API Key, the \"within x miles\" field will be disabled for search and the search query will default to a keyword based location search, meaning that it will only search address fields within each listing for the keyword that the user has entered. Maps on the listing page will also be disabled."
+msgstr "Si no añades una clave de API, el campo «dentro de x millas» se desactivará para la búsqueda y la consulta de búsqueda será por defecto una búsqueda de ubicación basada en palabras clave, lo que significa que solo buscará campos de direcciones dentro de cada anuncio para la palabra clave que el usuario ha introducido. Los mapas de la página del anuncio también se desactivarán."
+
+#: src/Admin/SellerColumns.php:35 src/Admin/Settings.php:19
+#: src/Installer.php:96 src/Listing/PostType.php:37
+msgid "Listings"
+msgstr "Anuncios"
+
+#. translators: field value.
+#: src/Listing/AdminColumns.php:238
+msgid "All %s"
+msgstr "Todos %s"
+
+#: src/Enquiry/PostType.php:33 src/Listing/AdminColumns.php:56
+msgid "Enquiries"
+msgstr "Consultas"
+
+#: src/Listing/AdminColumns.php:55 src/Listing/fields/05-address.php:79
+#: src/Listing/fields/06-settings.php:43
+msgid "Address"
+msgstr "Dirección"
+
+#: src/Admin/settings/04-listing-status.php:24 src/Listing/AdminColumns.php:53
+#: src/Listing/fields/02-details.php:53
+msgid "Status"
+msgstr "Característica destacada"
+
+#: src/Admin/settings/04-listing-setup.php:15 src/Listing/AdminColumns.php:52
+#: src/Listing/fields/02-details.php:69 src/SearchForm/Editor.php:87
+#: src/SearchForm/Shortcode/Field.php:31
+msgid "Condition"
+msgstr "Condición"
+
+#: src/Admin/settings/07-display-colors.php:27 src/Listing/AdminColumns.php:51
+#: src/Listing/fields/02-details.php:12 src/Listing/fields/06-settings.php:40
+#: src/SearchForm/Editor.php:98 src/SearchForm/Shortcode/Field.php:40
+#: templates/single-listing/tabs/details.php:21
+#: templates/single-listing/tabs/details.php:32
+msgid "Price"
+msgstr "Precio"
+
+#: src/functions-listing.php:21 src/Listing/AdminColumns.php:50
+#: templates/single-listing/tabs/details.php:20
+msgid "Vehicle"
+msgstr "Vehículo"
+
+#. translators: field value.
+#: src/Enquiry/AdminColumns.php:232
+msgid "Show all %s"
+msgstr "Mostrar todos %s"
+
+#: src/Enquiry/AdminColumns.php:90 src/Listing/PostType.php:35
+msgid "Edit Listing"
+msgstr "Editar el anuncio"
+
+#: src/Enquiry/AdminColumns.php:71
+msgid "From Email"
+msgstr "Correo electrónico del remitente"
+
+#: src/Enquiry/AdminColumns.php:70
+msgid "From Name"
+msgstr "Nombre del remitente"
+
+#: src/Enquiry/AdminColumns.php:69 src/Enquiry/fields/02-contact.php:27
+#: src/Listing/AdminColumns.php:54 src/Listing/fields/06-settings.php:18
+msgid "Seller"
+msgstr "Vendedor"
+
+#: src/Enquiry/AdminColumns.php:68 src/Enquiry/fields/02-contact.php:15
+msgid "Listing"
+msgstr "Anuncio"
+
+#: src/Plugin.php:88
+msgid "View Documentation"
+msgstr "Ver la documentación"

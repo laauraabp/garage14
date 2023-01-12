@@ -1,0 +1,49 @@
+
+---Subir archivos---
+El archivo Redux no se subió. Error: No se proporcionó ningún archivo.
+
+---Subir archivos---
+¡Los archivos de importación se subieron correctamente!
+Tiempo de ejecución máximo inicial = 30
+Información de archivos:
+URL del sitio = http://localhost/wordpress
+Archivo de datos = C:\AppServ\www\wordpress/wp-content/uploads/2023/01/content.xml
+Archivo de widget = C:\AppServ\www\wordpress/wp-content/uploads/2023/01/widgets.wie
+Archivo del personalizador = C:\AppServ\www\wordpress/wp-content/uploads/2023/01/theme-options.dat
+Archivos de Redux:
+ ¡no definido!
+
+------
+¡Nueva llamada AJAX!
+
+
+---Importando los widgets---
+Archivo de Auto Listings : 
+
+Texto - I&#039;m looking for - Importado
+Texto - Sidebar Listings - Importado
+
+Sidebar : 
+
+Búsqueda - Sin título - Importado
+Texto - About Auto Listings - Importado
+jetpack_widget_social_icons - Social Media - El sitio no es compatible con widgets
+Categorías - Sin título - Importado
+jr_insta_slider - Instagram Slider - El sitio no es compatible con widgets
+Nube de etiquetas - Sin título - Importado
+Imagen - Sin título - Importado
+twitter_timeline - Twitter Feed - El sitio no es compatible con widgets
+Texto - About Auto Listings - Importado
+
+Topbar Contact : 
+
+Carlistings: Contact Info - Sin título - Importado
+
+Topbar Languages : 
+
+HTML personalizado - Sin título - Importado
+
+
+
+---Importación de los ajustes del personalizador---
+¡Importación de los ajustes del personalizador finalizado!
